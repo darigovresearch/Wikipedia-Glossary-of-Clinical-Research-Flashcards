@@ -1,4 +1,3 @@
-<h2><span class="mw-headline" id="A">A</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_clinical_research&amp;action=edit&amp;section=1" title="Edit section: A">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <ul><li><b><a href="/wiki/Activities_of_daily_living" title="Activities of daily living">Activities of daily living</a></b></li></ul>
 <dl><dd><dl><dd>The tasks of everyday life. These activities include eating, dressing, getting into or out of a bed or chair, taking a bath or shower, and using the toilet. Instrumental activities of daily living are activities related to independent living and include preparing meals, managing money, shopping, doing housework, and using a telephone. Also called ADL. (NCI)</dd></dl></dd></dl>
 <ul><li><b><a href="/wiki/Adverse_drug_reaction" title="Adverse drug reaction">Adverse drug reaction</a></b></li></ul>
@@ -32,7 +31,6 @@
 <dl><dd><dl><dd>A written evaluation by the sponsor's auditor of the results of the audit. (ICH E6)</dd></dl></dd></dl>
 <ul><li><b><a href="/wiki/Audit_trail" title="Audit trail">Audit trail</a></b></li></ul>
 <dl><dd><dl><dd>Documentation that allows reconstruction of the course of events. (ICH E6)</dd></dl></dd></dl>
-<h2><span class="mw-headline" id="B">B</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_clinical_research&amp;action=edit&amp;section=2" title="Edit section: B">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <ul><li><b><a href="/wiki/Baseline_(medicine)" title="Baseline (medicine)">Baseline</a></b></li></ul>
 <dl><dd><ul><li>1. Information gathered at the beginning of a study from which variations found in the study are measured. 2. A known value or quantity with which an unknown is compared when measured or assessed. 3. The initial time point in a clinical trial, just before a participant starts to receive the experimental treatment which is being tested. At this reference point, measurable values such as CD4 count are recorded. Safety and efficacy of a drug are often determined by monitoring changes from the baseline values. (NLM)</li>
 <li>An initial measurement that is taken at an early time point to represent a beginning condition, and is used for comparison over time to look for changes. For example, the size of a tumor will be measured before treatment (baseline) and then afterwards to see if the treatment had an effect. (NCI)</li></ul></dd></dl>
@@ -63,7 +61,6 @@
 <dl><dd><dl><dd>The checking and assessment of data during the period of time between trial completion (the last observation on the last subject) and the breaking of the blind, for the purpose of finalising the planned analysis. (ICH E9)</dd></dl></dd></dl>
 <ul><li><b><a href="/wiki/Blinded_study" class="mw-redirect" title="Blinded study">Blinded study</a></b></li></ul>
 <dl><dd><dl><dd>A type of study in which the patients (single-blinded) or the patients and their doctors (double-blinded) do not know which drug or treatment is being given. The opposite of a blinded study is an open label study. (NCI)</dd></dl></dd></dl>
-<h2><span class="mw-headline" id="C">C</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_clinical_research&amp;action=edit&amp;section=3" title="Edit section: C">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <ul><li><b><a href="/wiki/Case_report" title="Case report">Case report</a></b></li></ul>
 <dl><dd><dl><dd>A detailed report of the diagnosis, treatment, and follow-up of an individual patient. Case reports also contain some demographic information about the patient (for example, age, gender, ethnic origin). (NCI)</dd></dl></dd></dl>
 <ul><li><b><a href="/wiki/Case_report_form" title="Case report form">Case report form</a></b></li></ul>
@@ -138,7 +135,6 @@
 <dl><dd><dl><dd>A committee that a sponsor may organize to coordinate the conduct of a multicenter trial. (ICH E6)</dd></dl></dd></dl>
 <ul><li><b>Coordinating Investigator</b></li></ul>
 <dl><dd><dl><dd>An investigator assigned the responsibility for the coordination of investigators at different centers participating in a multicenter trial. (ICH E6)</dd></dl></dd></dl>
-<h2><span class="mw-headline" id="D">D</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_clinical_research&amp;action=edit&amp;section=4" title="Edit section: D">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <ul><li><b><a href="/wiki/Data_and_Safety_Monitoring_Board" class="mw-redirect" title="Data and Safety Monitoring Board">Data and Safety Monitoring Board</a></b> or <b>Independent Data Monitoring Committee</b></li></ul>
 <dl><dd><ul><li>DSMB. An impartial group that oversees a clinical trial and reviews the results to see if they are acceptable. This group determines if the trial should be changed or closed. Also called DSMB. (NCI)</li>
 <li>An independent committee, composed of community representatives and clinical research experts, that reviews data while a clinical trial is in progress to ensure that participants are not exposed to undue risk. A DSMB may recommend that a trial be stopped if there are safety concerns or if the trial objectives have been achieved. (NLM)</li>
@@ -170,7 +166,6 @@
 <dl><dd><dl><dd>Any substance, other than food, that is used to prevent, diagnose, treat or relieve symptoms of a disease or abnormal condition. Also refers to a substance that alters mood or body function, or that can be habit-forming or addictive, especially a narcotic. (NCI)</dd></dl></dd></dl>
 <ul><li><b><a href="/wiki/Drug_interaction" title="Drug interaction">Drug–drug interaction</a></b></li></ul>
 <dl><dd><dl><dd>A modification of the effect of a drug when administered with another drug. The effect may be an increase or a decrease in the action of either substance, or it may be an adverse effect that is not normally associated with either drug. (NLM)</dd></dl></dd></dl>
-<h2><span class="mw-headline" id="E">E</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_clinical_research&amp;action=edit&amp;section=5" title="Edit section: E">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <ul><li><b><a href="/wiki/Efficacy" title="Efficacy">Efficacy</a></b></li></ul>
 <dl><dd><ul><li>The maximum ability of a drug or treatment to produce a result regardless of dosage. A drug passes efficacy trials if it is effective at the dose tested and against the illness for which it is prescribed. In the procedure mandated by the FDA, Phase II clinical trials gauge efficacy, and Phase III trials confirm it (NLM)</li>
 <li>Effectiveness. In medicine, the ability of an intervention (for example, a drug or surgery) to produce the desired beneficial effect. (NCI)</li></ul></dd></dl>
@@ -204,7 +199,6 @@
 <ul><li><b><a href="/wiki/Experimental_drug" title="Experimental drug">Experimental drug</a></b></li></ul>
 <dl><dd><ul><li>A drug that is not FDA licensed for use in humans, or as a treatment for a particular condition (NLM)</li>
 <li>A substance that has been tested in a laboratory and has gotten approval from the U.S. Food and Drug Administration (FDA) to be tested in people. A drug may be approved by the FDA for use in one disease or condition but be considered experimental or investigational in other diseases or conditions. Also called investigational drug. (NCI)</li></ul></dd></dl>
-<h2><span class="mw-headline" id="F">F</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_clinical_research&amp;action=edit&amp;section=6" title="Edit section: F">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <ul><li><b>Follow-up</b></li></ul>
 <dl><dd><dl><dd>Monitoring a person's health over time after treatment. This includes keeping track of the health of people who participate in a clinical study or clinical trial for a period of time, both during the study and after the study ends. (NCI)</dd></dl></dd></dl>
 <ul><li><b><a href="/wiki/Food_and_Drug_Administration" title="Food and Drug Administration">Food and Drug Administration</a> (FDA)</b></li></ul>
@@ -213,14 +207,12 @@
 <dl><dd><dl><dd>Statistical methods, such as significance tests and confidence intervals, which can be interpreted in terms of the frequency of certain outcomes occurring in hypothetical repeated realisations of the same experimental situation. (ICH E9)</dd></dl></dd></dl>
 <ul><li><b>Full analysis set</b></li></ul>
 <dl><dd><dl><dd>The set of subjects that is as close as possible to the ideal implied by the intention-to- treat principle. It is derived from the set of all randomised subjects by minimal and justified elimination of subjects. (ICH E9)</dd></dl></dd></dl>
-<h2><span class="mw-headline" id="G">G</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_clinical_research&amp;action=edit&amp;section=7" title="Edit section: G">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <ul><li><b>Generalisability, Generalisation</b></li></ul>
 <dl><dd><dl><dd>The extent to which the findings of a clinical trial can be reliably extrapolated from the subjects who participated in the trial to a broader patient population and a broader range of clinical settings. (ICH E9)</dd></dl></dd></dl>
 <ul><li><b>Global assessment variable</b></li></ul>
 <dl><dd><dl><dd>A single variable, usually a scale of ordered categorical ratings, which integrates objective variables and the investigator's overall impression about the state or change in state of a subject. (ICH E9)</dd></dl></dd></dl>
 <ul><li><b><a href="/wiki/Good_clinical_practice" title="Good clinical practice">Good clinical practice</a></b></li></ul>
 <dl><dd><dl><dd>A standard for the design, conduct, performance, monitoring, auditing, recording, analyses, and reporting of clinical trials that provides assurance that the data and reported results are credible and accurate, and that the rights, integrity, and confidentiality of trial subjects are protected. (ICH E6)</dd></dl></dd></dl>
-<h2><span class="mw-headline" id="H">H</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_clinical_research&amp;action=edit&amp;section=8" title="Edit section: H">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <ul><li><b>Healthy control</b></li></ul>
 <dl><dd><dl><dd>In a clinical study, a person who does not have the disorder or disease being studied. Results from healthy controls are compared to results from the group being studied. (NCI)</dd></dl></dd></dl>
 <ul><li><b><a href="/wiki/Historic_cohort_study" class="mw-redirect" title="Historic cohort study">Historic cohort study</a></b></li></ul>
@@ -231,7 +223,6 @@
 <dl><dd><dl><dd>An individual who is or becomes a participant in research, either as a recipient of the test article or as a control. A subject may be either a healthy human or a patient. (21CFR50.3)</dd></dl></dd></dl>
 <ul><li><b><a href="/wiki/Hypothesis" title="Hypothesis">Hypothesis</a></b></li></ul>
 <dl><dd><dl><dd>A supposition or assumption advanced as a basis for reasoning or argument, or as a guide to experimental investigation. (NLM)</dd></dl></dd></dl>
-<h2><span class="mw-headline" id="I">I</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_clinical_research&amp;action=edit&amp;section=9" title="Edit section: I">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <ul><li><b>Impartial Witness</b></li></ul>
 <dl><dd><dl><dd>A person, who is independent of the trial, who cannot be unfairly influenced by people involved with the trial, who attends the informed consent process if the subject or the subject's legally acceptable representative cannot read, and who reads the informed consent form and any other written information supplied to the subject. (ICH E6)</dd></dl></dd></dl>
 <ul><li><b><a href="/wiki/In_vitro" title="In vitro">In vitro</a></b></li></ul>
@@ -295,12 +286,10 @@
 <li>An individual who actually conducts a clinical investigation, i.e., under whose immediate direction the test article is administered or dispensed to, or used involving, a subject, or, in the event of an investigation conducted by a team of individuals, is the responsible leader of that team. (21CFR50.3)</li></ul></dd></dl>
 <ul><li><b><a href="/wiki/Investigator%27s_Brochure" class="mw-redirect" title="Investigator&#39;s Brochure">Investigator's Brochure</a></b></li></ul>
 <dl><dd><dl><dd>A compilation of the clinical and nonclinical data on the investigational product(s) that is relevant to the study of the investigational product(s) in human subjects. (ICH E6)</dd></dl></dd></dl>
-<h2><span class="mw-headline" id="L">L</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_clinical_research&amp;action=edit&amp;section=10" title="Edit section: L">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <ul><li><b>Legally Acceptable Representative</b></li></ul>
 <dl><dd><dl><dd>An individual or juridical or other body authorized under applicable law to consent, on behalf of a prospective subject, to the subject's participation in the clinical trial. (ICH E6)</dd></dl></dd></dl>
 <ul><li><b><a href="/wiki/Levels_of_evidence" class="mw-redirect" title="Levels of evidence">Levels of evidence</a></b></li></ul>
 <dl><dd><dl><dd>A ranking system used to describe the strength of the results measured in a clinical trial or research study. The design of the study (such as a case report for an individual patient or a randomized double-blinded controlled clinical trial) and the endpoints measured (such as survival or quality of life) affect the strength of the evidence. (NCI)</dd></dl></dd></dl>
-<h2><span class="mw-headline" id="M">M</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_clinical_research&amp;action=edit&amp;section=11" title="Edit section: M">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <ul><li><b><a href="/wiki/Masked" class="mw-redirect" title="Masked">Masked</a></b></li></ul>
 <dl><dd><dl><dd>The knowledge of intervention assignment. (NLM)</dd></dl></dd></dl>
 <ul><li><b>Maximum tolerated dose</b></li></ul>
@@ -322,7 +311,6 @@
 <dl><dd><dl><dd>A treatment planning approach in which a number of doctors who are experts in different specialties (disciplines) review and discuss the medical condition and treatment options of a patient. (NCI)</dd></dl></dd></dl>
 <ul><li><b>Multiplicity</b></li></ul>
 <dl><dd><dl><dd>A large number or variety. (NCI)</dd></dl></dd></dl>
-<h2><span class="mw-headline" id="N">N</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_clinical_research&amp;action=edit&amp;section=12" title="Edit section: N">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <ul><li><b><a href="/wiki/National_Institutes_of_Health" title="National Institutes of Health">National Institutes of Health</a></b></li></ul>
 <dl><dd><dl><dd>NIH. A federal agency in the U.S. that conducts biomedical research in its own laboratories; supports the research of non-Federal scientists in universities, medical schools, hospitals, and research institutions throughout the country and abroad; helps in the training of research investigators; and fosters communication of medical information. Access the National Institutes of Health Web site at <a rel="nofollow" class="external free" href="http://www.nih.gov">http://www.nih.gov</a>. Also called NIH. (NCI)</dd></dl></dd></dl>
 <ul><li><b><a href="/wiki/Natural_history_study" title="Natural history study">Natural history study</a></b></li></ul>
@@ -340,7 +328,6 @@
 <dl><dd><dl><dd>A trial with the primary objective of showing that the response to the investigational product is not clinically inferior to a comparative agent (active or placebo control). (ICH E9)</dd></dl></dd></dl>
 <ul><li><b>Nonrandomized clinical trial</b></li></ul>
 <dl><dd><dl><dd>A clinical trial in which the participants are not assigned by chance to different treatment groups. Participants may choose which group they want to be in, or they may be assigned to the groups by the researchers. (NCI)</dd></dl></dd></dl>
-<h2><span class="mw-headline" id="O">O</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_clinical_research&amp;action=edit&amp;section=13" title="Edit section: O">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <ul><li><b>Objective improvement</b></li></ul>
 <dl><dd><dl><dd>An improvement that can be measured by the health care provider (NCI)</dd></dl></dd></dl>
 <ul><li><b>Objective response</b></li></ul>
@@ -363,7 +350,6 @@
 <dl><dd><dl><dd>A patient who visits a health care facility for diagnosis or treatment without spending the night. Sometimes called a day patient. (NCI)</dd></dl></dd></dl>
 <ul><li><b><a href="/wiki/Over-the-counter_drug" title="Over-the-counter drug">Over-the-counter drug</a></b></li></ul>
 <dl><dd><dl><dd>A medicine that can be bought without a prescription (doctor's order). Examples include analgesics (pain relievers) such as aspirin and acetaminophen. Also called nonprescription and OTC. (NCI)</dd></dl></dd></dl>
-<h2><span class="mw-headline" id="P">P</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_clinical_research&amp;action=edit&amp;section=14" title="Edit section: P">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <ul><li><b><a href="/wiki/Patient_advocate" class="mw-redirect" title="Patient advocate">Patient advocate</a></b></li></ul>
 <dl><dd><dl><dd>A person who helps a patient work with others who have an effect on the patient's health, including doctors, insurance companies, employers, case managers, and lawyers. A patient advocate helps resolve issues about health care, medical bills, and job discrimination related to a patient's medical condition. (NCI)</dd></dl></dd></dl>
 <ul><li><b><a href="/wiki/Peer_review" title="Peer review">Peer review</a></b></li></ul>
@@ -428,14 +414,12 @@
 <li>A document that describes the objective(s), design, methodology, statistical considerations, and organization of a trial. The protocol usually also gives the background and rationale for the trial, but these could be provided in other protocol referenced documents. Throughout the ICH GCP Guidance, the term protocol refers to protocol and protocol amendments. (ICH E6)</li></ul></dd></dl>
 <ul><li><b>Protocol Amendment</b></li></ul>
 <dl><dd><dl><dd>A written description of a change(s) to or formal clarification of a protocol. (ICH E6)</dd></dl></dd></dl>
-<h2><span class="mw-headline" id="Q">Q</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_clinical_research&amp;action=edit&amp;section=15" title="Edit section: Q">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <ul><li><b><a href="/wiki/Quality_Assurance" class="mw-redirect" title="Quality Assurance">Quality Assurance</a></b></li></ul>
 <dl><dd><dl><dd>All those planned and systematic actions that are established to ensure that the trial is performed and the data are generated, documented (recorded), and reported in compliance with GCP and the applicable regulatory requirement(s). (ICH E6)</dd></dl></dd></dl>
 <ul><li><b>Quality Control</b></li></ul>
 <dl><dd><dl><dd>The operational techniques and activities undertaken within the quality assurance system to verify that the requirements for quality of the trial related activities have been fulfilled. (ICH E6)</dd></dl></dd></dl>
 <ul><li><b><a href="/wiki/Quality_of_life" title="Quality of life">Quality of life</a> trials (or supportive care trials)</b></li></ul>
 <dl><dd><dl><dd>Refers to trials that explore ways to improve comfort and quality of life for individuals with a chronic illness. (NLM)</dd></dl></dd></dl>
-<h2><span class="mw-headline" id="R">R</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_clinical_research&amp;action=edit&amp;section=16" title="Edit section: R">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <ul><li><b><a href="/wiki/Randomization" title="Randomization">Randomization</a></b></li></ul>
 <dl><dd><ul><li>A method based on chance by which study participants are assigned to a treatment group. Randomization minimizes the differences among groups by equally distributing people with particular characteristics among all the trial arms. The researchers do not know which treatment is better. From what is known at the time, any one of the treatments chosen could be of benefit to the participant (NLM)</li>
 <li>When referring to an experiment or clinical trial, the process by which animal or human subjects are assigned by chance to separate groups that compare different treatments or other interventions. Randomization gives each participant an equal chance of being assigned to any of the groups. (NCI)</li>
@@ -459,7 +443,6 @@
 <dl><dd><dl><dd>A study that compares two groups of people: those with the disease or condition under study (cases) and a very similar group of people who do not have the disease or condition (controls). Researchers study the medical and lifestyle histories of the people in each group to learn what factors may be associated with the disease or condition. For example, one group may have been exposed to a particular substance that the other was not. Also called a case-control study. (NCI)</dd></dl></dd></dl>
 <ul><li><b><a href="/wiki/Risk-benefit_ratio" class="mw-redirect" title="Risk-benefit ratio">Risk-benefit ratio</a></b></li></ul>
 <dl><dd><dl><dd>The risk to individual participants versus the potential benefits. The risk/benefit ratio may differ depending on the condition being treated. (NLM)</dd></dl></dd></dl>
-<h2><span class="mw-headline" id="S">S</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_clinical_research&amp;action=edit&amp;section=17" title="Edit section: S">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <ul><li><b>Safety &amp; tolerability</b></li></ul>
 <dl><dd><dl><dd>The safety of a medical product concerns the medical risk to the subject, usually assessed in a clinical trial by laboratory tests (including clinical chemistry and haematology), vital signs, clinical adverse events (diseases, signs and symptoms), and other special safety tests (e.g. ECGs, ophthalmology). The tolerability of the medical product represents the degree to which overt adverse effects can be tolerated by the subject. (ICH E9)</dd></dl></dd></dl>
 <ul><li><b>Screening trials</b></li></ul>
@@ -512,7 +495,6 @@
 <dl><dd><dl><dd>A trial with the primary objective of showing that the response to the investigational product is superior to a comparative agent (active or placebo control). (ICH E9)</dd></dl></dd></dl>
 <ul><li><b>Surrogate variable</b></li></ul>
 <dl><dd><dl><dd>A variable that provides an indirect measurement of effect in situations where direct measurement of clinical effect is not feasible or practical. (ICH E9)</dd></dl></dd></dl>
-<h2><span class="mw-headline" id="T">T</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_clinical_research&amp;action=edit&amp;section=18" title="Edit section: T">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <ul><li><b>Test article</b></li></ul>
 <dl><dd><dl><dd>Any drug (including a biological product for human use), medical device for human use, human food additive, color additive, electronic product, or any other article subject to regulation under the FD&amp;C Act (21CFR50.3)</dd></dl></dd></dl>
 <ul><li><b><a href="/wiki/Toxicity" title="Toxicity">Toxicity</a></b></li></ul>
@@ -531,14 +513,11 @@
 <dl><dd><dl><dd>A statistician who has a combination of education/training and experience sufficient to implement the principles in this guidance and who is responsible for the statistical aspects of the trial. (ICH E9)</dd></dl></dd></dl>
 <ul><li><b><a href="/wiki/T-test" class="mw-redirect" title="T-test">t-test</a></b></li></ul>
 <dl><dd><dl><dd>A statistical test that is used to find out if there is a real difference between the means (averages) of two different groups. It is sometimes used to see if there is a significant difference in response to treatment between groups in a clinical trial. (NCI)</dd></dl></dd></dl>
-<h2><span class="mw-headline" id="U">U</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_clinical_research&amp;action=edit&amp;section=19" title="Edit section: U">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <ul><li><b>Uncontrolled study</b></li></ul>
 <dl><dd><dl><dd>A clinical study that lacks a comparison (i.e., a control) group. (NCI)</dd></dl></dd></dl>
 <ul><li><b>Unexpected Adverse Drug Reaction</b></li></ul>
 <dl><dd><dl><dd>An adverse reaction, the nature or severity of which is not consistent with the applicable product information (e.g., Investigator's Brochure for an unapproved investigational product or package insert/summary of product characteristics for an approved product). (ICH E6)</dd></dl></dd></dl>
-<h2><span class="mw-headline" id="V">V</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_clinical_research&amp;action=edit&amp;section=20" title="Edit section: V">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <ul><li><b>Vulnerable Subjects</b></li></ul>
 <dl><dd><dl><dd>Individuals whose willingness to volunteer in a clinical trial may be unduly influenced by the expectation, whether justified or not, of benefits associated with participation, or of a retaliatory response from senior members of a hierarchy in case of refusal to participate. Examples are members of a group with a hierarchical structure, such as medical, pharmacy, dental, and nursing students, subordinate hospital and laboratory personnel, employees of the pharmaceutical industry, members of the armed forces, and persons kept in detention. Other vulnerable subjects include patients with incurable diseases, persons in nursing homes, unemployed or impoverished persons, patients in emergency situations, ethnic minority groups, homeless persons, nomads, refugees, minors, and those incapable of giving consent. (ICH E6)</dd></dl></dd></dl>
-<h2><span class="mw-headline" id="W">W</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_clinical_research&amp;action=edit&amp;section=21" title="Edit section: W">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <ul><li><b>Well-being of the trial subjects</b></li></ul>
 <dl><dd><dl><dd>The physical and mental integrity of the subjects participating in a clinical trial. (ICH E6)</dd></dl></dd></dl>
