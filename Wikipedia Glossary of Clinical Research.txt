@@ -1,3 +1,17 @@
+"Introduction (Wikipedia Glossary of Clinical Research)"|"
+<p>This deck has taken definitions outlined in <a href=""https://en.wikipedia.org/wiki/Glossary_of_clinical_research"">Wikipedia's Glossary of clinical research</a> and put them into a form which can be easily learnt/revised using <a href=""https://apps.ankiweb.net/"">Anki</a> a cross platform app specifically designed for long term knowledge retention.</p>
+<h2>Notes</h2>
+<p>Please note the modifications which have been made &amp; where you can find updates.</p>
+<ol align=""left"">
+<li>The front of every card has ""(Wikipedia Glossary of Clinical Research)"" appended to the end so that if you have any other words in your collection, the Wikipedia definition will still be added when importing it.</li>
+<li>Any updates or corrections to the deck will be available at <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Clinical-Research-Flashcards"">https://github.com/darigovresearch/Wikipedia-Glossary-of-Clinical-Research-Flashcards</a> so do return periodically to check if you have the latest version.</li>
+</ol>
+<p>Feel free to share the deck and give the repository a star so more people are likely to see this work and can get the most out of it.</p>
+<h2>License</h2>
+<p>Unless otherwise specified, everything in this deck is covered by the following licence:</p>
+<p>This deck uses material from the Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_clinical_research"">""Glossary of clinical research""</a>, which is released under the <a href=""https://creativecommons.org/licenses/by-sa/3.0/"">Creative Commons Attribution-Share-Alike License 3.0</a>.</p>
+<p>To see this work in full go to <a href=""https://en.wikipedia.org/wiki/Glossary_of_clinical_research"">https://en.wikipedia.org/wiki/Glossary_of_clinical_research</a></p>
+"
 "<b><a href=""https://en.wikipedia.org/wiki/Activities_of_daily_living"" title=""Activities of daily living"">Activities of daily living</a></b> (Wikipedia Glossary of Clinical Research)"|"The tasks of everyday life. These activities include eating, dressing, getting into or out of a bed or chair, taking a bath or shower, and using the toilet. Instrumental activities of daily living are activities related to independent living and include preparing meals, managing money, shopping, doing housework, and using a telephone. Also called ADL. (NCI)"
 "<b><a href=""https://en.wikipedia.org/wiki/Adverse_drug_reaction"" title=""Adverse drug reaction"">Adverse drug reaction</a></b> (Wikipedia Glossary of Clinical Research)"|"In the preapproval clinical experience with a new medicinal product or its new usages, particularly as the therapeutic dose(s) may not be established, all noxious and unintended responses to a medicinal product related to any dose should be considered adverse drug reactions. The phrase ""responses to a medicinal product"" means that a causal relationship between a medicinal product and an adverse event is at least a reasonable possibility, i.e., the relationship cannot be ruled out. Regarding marketed medicinal products: A response to a drug that is noxious and unintended and that occurs at doses normally used in man for prophylaxis, diagnosis, or therapy of diseases or for modification of physiological function. (ICH E6)"
 "<b><a href=""https://en.wikipedia.org/wiki/Adverse_effect"" title=""Adverse effect"">Adverse effect</a></b> (Wikipedia Glossary of Clinical Research)"|"An unwanted side effect of treatment. (NCI)"
